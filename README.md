@@ -1,2 +1,2 @@
-# angular-portifolio
-angular-portifolio
+# angular-portfolio
+angular-portfolio
